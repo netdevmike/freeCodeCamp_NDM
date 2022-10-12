@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41f8b2c2-27f3-439e-be64-2f99d54f0f92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/05 Learn the CSS Box Model by Building a Rthko Painting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Learn the CSS Box Model by Building a Rthko Painting/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Learn CSS Flexbox by Building a Photor Gallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Learn CSS Flexbox by Building a Photor Gallery/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Learn Typography by Building a Nutrition Label/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Learn Typography by Building a Nutrition Label/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Learn Accessibility by Building a Quiz/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Learn Accessibility by Building a Quiz/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G17rXbpsrm5ovCAWwRknqW3G6c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f8b2c2-27f3-439e-be64-2f99d54f0f92" name="Changes" comment="" />
+      <created>1665544434884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665544434884</updated>
+      <workItem from="1665544435954" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
