@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(0, 0, 0);
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.calculator {
+  width: 340px;
+  background: rgb(19, 20, 27);
+  border-radius: 14px;
+  padding: 30px;
+  box-shadow: 0 0 15px hsla(254,18%,5%,0.6), 2px 2px 25px hsla(254,18%,5%,0.3);
+}
+
+#calculation-display {
+  line-height: 30px;
+  height: 30px;
+  padding: 0 20px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-family: 'Fira Code', monospace;
+  color: hsla(254,18%,40%,1);
+}
+
+#display {
+  line-height: 60px;
+  height: 60px;
+  border-radius: 40px;
+  padding: 0 20px;
+  font-size: 32px;
+  letter-spacing: 1px;
+  font-family: 'Fira Code', monospace;
+  color: hsla(254,18%,90%,1);
+}
+
+.calculator-button,
+.calculator-operator-button {
+  height: 60px;
+  width: auto;
+  text-align: center;
+  line-height: 57px;
+  border-radius: 50px;
+  font-size: 22px;
+  font-family: 'Fira Code', monospace;
+  cursor: pointer;
+}
+
+.calculator-button {
+  color: rbg(240, 109, 102);
+}
+
+.calculator-button:hover {
+  color: hsla(192,90%,90%,1);
+}
+
+.calculator-button:active {
+  color: hsla(192,90%,60%,1);
+}
+
+.calculator-operator-button {
+  color: hsla(254,18%,40%,1);
+}
+
+.calculator-operator-button:hover {
+  color: hsla(254,18%,60%,1);
+}
+
+.calculator-operator-button:active {
+  color: hsla(254,18%,20%,1);
+}
+
+#clear {
+  background: rgb(240, 109, 102);
+  color: #17151E;
+}
+
+#clear:hover {
+  background: hsla(350,100%,59%,1);
+}
+
+#clear:active {
+  background: hsla(350,100%,49%,1);
+}
+
+#equals {
+  height: 120px;
+  line-height: 120px;
+  background: rgb(79, 221, 180);
+  color: hsla(254,18%,10%,1);
+}
+
+#equals:hover {
+  background: hsla(150,90%,75%,1);
+}
+
+#equals:active {
+  background: hsla(150,90%,50%,1);
+}
