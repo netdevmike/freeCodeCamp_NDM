@@ -20,7 +20,7 @@
   }
 
   function tweet(message) {
-  window.open('https://twitter.com/intent/tweet?hashtags=julienme.net&text= '   + encodeURIComponent(message));
+  window.open('https://twitter.com/intent/tweet?hashtags=FreeCodeCamp&text= '   + encodeURIComponent(message));
   }
 
   $('#tweet').on('click', tweet);
